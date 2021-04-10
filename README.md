@@ -5,3 +5,5 @@ This is a C++ parser project that creates the Grammer of the Language according 
 ## License
 
 Read the LICENSE file.
+
+Note: [Original writer of this project](https://github.com/karakayasemi)
